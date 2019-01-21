@@ -1,0 +1,17 @@
+{
+  "name": "xml-converter",
+  "version": "1.0.0",
+  "description": "xml2json, json2xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harper",
+  "license": "ISC",
+  "dependencies": {
+    "xml-parser": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
